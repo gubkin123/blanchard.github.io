@@ -3097,7 +3097,7 @@ body {
 
     .header__logo {
         top: 35%;
-        left: 40.8%;
+        left: 38.5%;
     }
 
     .search-btn__logo {
@@ -3194,7 +3194,7 @@ body {
 
 }
 
-@media (max-width: 320px) {
+@media (max-width: 375px) {
     .container {
         padding: 0 15px;
     }
@@ -3243,7 +3243,7 @@ body {
 
     .header__logo {
         top: 29.2%;
-        left: 112px;
+        left: 37.6%;
     }
 
     .main-logo--hidden {
@@ -3298,8 +3298,8 @@ body {
     }
 
     .header__search--active {
-        width: 151px;
-        margin-right: 40px;
+        width: 191px;
+        margin-right: 16px;
     }
 
     .search-btn__logo {
